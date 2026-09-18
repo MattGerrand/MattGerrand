@@ -52,5 +52,5 @@ Bachelor of Information Sciences
 
 ## 📫 Find me
 
-[![Email](https://img.shields.io/badge/Email-matt%4gerrand.net.nz-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:matt@gerrand.net.nz)
+[![Email](https://img.shields.io/badge/Email-matt%40gerrand.net.nz-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:matt@gerrand.net.nz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matt_Gerrand-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattgerrandnz/)
